@@ -1,21 +1,26 @@
 # Hi, I'm Lamia 👋
 
-🎓 M1 AI & Data Student  
+🎓 M1 Data & AI Engineering Student  
 🤖 Artificial Intelligence | Machine Learning | Deep Learning  
-📊 Data Analysis | Computer Vision  
-💼 Looking for a work-study opportunity in AI & Data
+📊 Data Analysis | Computer Vision | Python  
+💼 Looking for a work-study opportunity in Data & AI
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm currently pursuing a Master's degree in Artificial Intelligence & Data.
+I'm currently pursuing a Master's degree in Data & Artificial Intelligence
+at École Hexagone in Clermont-Ferrand.
 
-I enjoy working on data-driven and AI-based projects, from data preprocessing and analysis to machine learning and deep learning.
+With a background in Biomedical Engineering, Biomedical Instrumentation
+and Medical Image Processing, I have developed strong experience in
+Python, data analysis, machine learning, deep learning and computer vision.
 
-With a background in Biomedical Engineering and Medical Imaging, I have developed experience in image processing and computer vision, while expanding my skills toward broader AI and Data applications.
+I enjoy building practical AI and data-driven solutions, from data
+preprocessing and analysis to model development and evaluation.
 
-I'm currently looking for a work-study opportunity in AI & Data, where I can develop my technical skills and contribute to real-world projects.
+I'm currently looking for a work-study opportunity in Data, AI,
+Machine Learning or Python development, across different industries.
 
 ---
 
@@ -24,58 +29,93 @@ I'm currently looking for a work-study opportunity in AI & Data, where I can dev
 ### Programming & Data
 - Python
 - SQL
+- MATLAB
+- C / C++ (basics)
 - NumPy
 - Pandas
-- Data Analysis
+- scikit-learn
 
 ### Artificial Intelligence
 - Machine Learning
 - Deep Learning
-- Computer Vision
+- Convolutional Neural Networks (CNN)
+- Data preprocessing & augmentation
+- Model evaluation
+
+### Computer Vision
+- OpenCV
 - Image Processing
+- Image Segmentation
+- Feature Extraction
+- Medical Imaging
+- DICOM
 
 ### Frameworks & Tools
 - PyTorch
-- OpenCV
+- Matplotlib
 - Pillow
-- Tkinter
+- pydicom
+- SQLite
+- Jupyter Notebook
 - Git & GitHub
 - Linux
-- MATLAB
+
+### Evaluation
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
+- ROC / AUC
+- Dice
+- IoU
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🩻 Medical Image Classification
+### 🩻 Mammography Anomaly Detection with Deep Learning
 
-Deep learning project for detecting abnormalities in mammography images using medical imaging datasets.
+Deep learning project focused on identifying abnormalities in
+mammography images.
+
+**Datasets:** MIAS · DDSM · INBreast
 
 **Technologies:** Python · PyTorch · CNN · NumPy · OpenCV
 
+**Evaluation:** F1-score · Confusion Matrix · ROC Curve
+
 ---
 
-### 🖼️ Biomedical Image Analysis & Annotation Tool
+### 🖼️ Medical Image Visualization & Annotation Tool
 
-A Python-based application for image visualization, preprocessing, annotation and Region of Interest (ROI) selection.
+Python application for visualization, processing and annotation
+of medical images.
 
-**Technologies:** Python · OpenCV · Tkinter · Pillow · NumPy · DICOM
+**Features:**
+- PNG, JPG and DICOM image support
+- Image preprocessing
+- Region of Interest (ROI) selection
+- Annotation saving
+- Preparation of data for machine learning
+
+**Technologies:** Python · OpenCV · Tkinter · Pillow · NumPy · pydicom
 
 ---
 
 ## 📚 Currently Learning
 
+- Data & Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Data Analysis
 - SQL
-- Artificial Intelligence
 - Algorithms & Python
 
 ---
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: [Lamia Bendou](https://www.linkedin.com/in/lamia-bendou-4195843b0/)
+💼 [LinkedIn](https://www.linkedin.com/in/lamia-bendou-4195843b0/)
 
-📧 Email: lamiaabendou@gmail.com
+📧 lamiaabendou@gmail.com
